@@ -1,7 +1,7 @@
 
 ![Home](https://github.com/user-attachments/assets/7b6e30dd-bb30-4edd-b2a8-b61ca4127fe7)
-#public-SIF
-Suspect Identi-Finder 
+
+# Suspect Identi-Finder 
 
 The Suspect Identity Finder is a full-stack application designed to enhance security by identifying individuals from images or video feeds. By utilizing advanced facial recognition technologies, the system analyzes and matches facial features against a secure database of known individuals stored in MongoDB. The platform integrates a user-friendly interface with robust backend logic, offering real-time identification and generating detailed reports of potential suspects. Built with HTML, JavaScript, Python, CSS, and MongoDB, the project combines frontend and backend technologies for a seamless user experience and enhanced security. 
 

@@ -53,8 +53,8 @@ All frontend pages are available in the repository. Feel free to explore...
 ## 📧 Contact
 For any queries or collaborations, feel free to reach out! 🚀
 
-🔹 **GitHub:** [your-github-profile](https://github.com/KNnath)  
-🔹 **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/1koushiknath/)  
+🔹 **GitHub:** [Koushik Nath](https://github.com/KNnath)  
+🔹 **LinkedIn:** [Koushik Nath](https://www.linkedin.com/in/1koushiknath/)  
 
 🌟 **Star this repo if you found it useful!** ⭐
 

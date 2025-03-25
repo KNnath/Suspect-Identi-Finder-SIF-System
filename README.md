@@ -34,10 +34,10 @@ The **Suspect Identity Finder** is a **full-stack security application** designe
 ---
 
 ## 📸 Workflow
-1️⃣ **Employee Registration** – Capture image & store details (Name, Roll Number, Department)  
+1️⃣ **Employee Registration** – Capture image & store details (Name, Roll Number, Department, etc....), Data Train
 2️⃣ **Face Recognition** – Compare live input with stored profiles  
 3️⃣ **Access Control** – Detect and flag unknown individuals  
-4️⃣ **Admin Controls** – Manage user access, reset passwords, and generate reports  
+4️⃣ **Admin Controls** – Perform Live Recognition, Manage user access, reset passwords, and generate reports  
 
 ---
 
@@ -55,5 +55,5 @@ For any queries or collaborations, feel free to reach out! 🚀
 
 🌟 **Star this repo if you found it useful!** ⭐
 
-For Contact - koushiknath003@gmail.com
+📧 **Email** - koushiknath003@gmail.com
 

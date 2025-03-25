@@ -41,12 +41,8 @@ The **Suspect Identity Finder** is a **full-stack security application** designe
 
 ---
 
----
-
 ## 🔗 Frontend Pages
 All frontend pages are available in the repository. Feel free to explore...
-
----
 
 ---
 
